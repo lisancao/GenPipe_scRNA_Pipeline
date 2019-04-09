@@ -1,2 +1,5 @@
 packrat/lib*/
 .Rproj.user
+*.h5
+*.gz
+*.tar
